@@ -1,1 +1,2 @@
 Hello this is just a sample file that I want to create in order to practice github
+I am only a junior developer please don't bully me
