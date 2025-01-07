@@ -1,0 +1,4 @@
+.DS_Store;
+secrets.txt
+
+# *.txt  #this means that all the files with this extension will be removed
